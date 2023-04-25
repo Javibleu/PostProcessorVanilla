@@ -1,0 +1,13 @@
+body p{
+    color: orange;
+}
+
+body div{
+    font-size: 25;
+    color: red;
+}
+
+body{ 
+    font-size: 25;
+    display: grid;
+}

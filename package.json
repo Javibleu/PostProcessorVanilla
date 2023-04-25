@@ -1,0 +1,17 @@
+{
+  "name": "postprocessor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss src/styles.css --dir dest",
+    "build-watch": "postcss src/styles.css --dir dest -w"
+  },
+  "keywords": [],
+  "author": "'javibleu'",
+  "license": "'MIT'",
+  "devDependencies": {
+    "postcss": "^8.4.23",
+    "postcss-cli": "^10.1.0"
+  }
+}

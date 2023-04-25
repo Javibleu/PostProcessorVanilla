@@ -1,0 +1,15 @@
+body p{
+    font-size: 2rem;
+    color: orange;
+}
+
+body div{
+    font-size: 2rem;
+    color: red;
+}
+
+body{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: grid;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBIiwiZmlsZSI6InN0eWxlcy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5IHB7XHJcbiAgICBjb2xvcjogb3JhbmdlO1xyXG59XHJcblxyXG5ib2R5IGRpdntcclxuICAgIGZvbnQtc2l6ZTogMjU7XHJcbiAgICBjb2xvcjogcmVkO1xyXG59XHJcblxyXG5ib2R5eyBcclxuICAgIGZvbnQtc2l6ZTogMjU7XHJcbiAgICBkaXNwbGF5OiBncmlkO1xyXG59Il19 */
